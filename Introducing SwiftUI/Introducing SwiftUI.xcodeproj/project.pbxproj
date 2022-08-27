@@ -13,6 +13,7 @@
 		1DCCF91A28BA4F8A00D01062 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DCCF91928BA4F8A00D01062 /* Preview Assets.xcassets */; };
 		1DCCF92128BA6DF600D01062 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCCF92028BA6DF600D01062 /* CircleImage.swift */; };
 		1DCCF92328BA6F3C00D01062 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCCF92228BA6F3C00D01062 /* MapView.swift */; };
+		1DCCF92728BA7F1200D01062 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1DCCF92628BA7F1200D01062 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		1DCCF91928BA4F8A00D01062 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1DCCF92028BA6DF600D01062 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		1DCCF92228BA6F3C00D01062 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		1DCCF92628BA7F1200D01062 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 		1DCCF90628BA4F7F00D01062 = {
 			isa = PBXGroup;
 			children = (
+				1DCCF92628BA7F1200D01062 /* README.md */,
 				1DCCF91128BA4F7F00D01062 /* Introducing SwiftUI */,
 				1DCCF91028BA4F7F00D01062 /* Products */,
 			);
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DCCF92728BA7F1200D01062 /* README.md in Resources */,
 				1DCCF91A28BA4F8A00D01062 /* Preview Assets.xcassets in Resources */,
 				1DCCF91728BA4F8A00D01062 /* Assets.xcassets in Resources */,
 			);
