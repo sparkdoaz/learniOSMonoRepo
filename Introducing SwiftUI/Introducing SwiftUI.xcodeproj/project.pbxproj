@@ -14,6 +14,7 @@
 		1DCCF92128BA6DF600D01062 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCCF92028BA6DF600D01062 /* CircleImage.swift */; };
 		1DCCF92328BA6F3C00D01062 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCCF92228BA6F3C00D01062 /* MapView.swift */; };
 		1DCCF92728BA7F1200D01062 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1DCCF92628BA7F1200D01062 /* README.md */; };
+		1DCCF92928BA814500D01062 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 1DCCF92828BA814500D01062 /* landmarkData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		1DCCF92028BA6DF600D01062 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		1DCCF92228BA6F3C00D01062 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		1DCCF92628BA7F1200D01062 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1DCCF92828BA814500D01062 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1DCCF92028BA6DF600D01062 /* CircleImage.swift */,
 				1DCCF92228BA6F3C00D01062 /* MapView.swift */,
 				1DCCF91628BA4F8A00D01062 /* Assets.xcassets */,
+				1DCCF92828BA814500D01062 /* landmarkData.json */,
 				1DCCF91828BA4F8A00D01062 /* Preview Content */,
 			);
 			path = "Introducing SwiftUI";
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1DCCF92728BA7F1200D01062 /* README.md in Resources */,
+				1DCCF92928BA814500D01062 /* landmarkData.json in Resources */,
 				1DCCF91A28BA4F8A00D01062 /* Preview Assets.xcassets in Resources */,
 				1DCCF91728BA4F8A00D01062 /* Assets.xcassets in Resources */,
 			);
