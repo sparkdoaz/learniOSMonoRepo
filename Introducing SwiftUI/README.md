@@ -12,6 +12,6 @@
 - [x] [Section 3 Customize the Row Preview](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#Customize-the-Row-Preview)
 - [x] [Section 4 Create the List of Landmarks](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#Create-the-List-of-Landmarks)
 - [x] [Section 5 Make the List Dynamic](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#Make-the-List-Dynamic)
-- [ ] [Section 6 Set Up Navigation Between List and Detail](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#Set-Up-Navigation-Between-List-and-Detail)
+- [x] [Section 6 Set Up Navigation Between List and Detail](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#Set-Up-Navigation-Between-List-and-Detail)
 - [ ] [Section 7 Pass Data into Child Views](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#Pass-Data-into-Child-Views)
 - [ ] [Section 8 Generate Previews Dynamically](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation#Generate-Previews-Dynamically)
